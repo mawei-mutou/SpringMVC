@@ -1,0 +1,1 @@
+var dd = document.getElementsByName("ddd");
